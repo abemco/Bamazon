@@ -8,4 +8,4 @@
 
 * Click on this link "https://drive.google.com/file/d/1aaExC0osARdciTQRc8R6COvbrtPpwzR0/view" to check out a demo of the app!
 
-[![Bamazon Demostration Video](https://www.youtube.com/embed/jXUP55Y7550/0.jpg)](https://www.youtube.com/embed/jXUP55Y7550)
+[![Bamazon Demostration Video](https://img.youtube.com/vi/jXUP55Y7550/0.jpg)](https://www.youtube.com/embed/jXUP55Y7550)
